@@ -1493,7 +1493,7 @@
         "explanation": "目的語に存在する場所を取ることができる。"
       }
     ],
-    "pron": "yam3",
+    "pron": "im1",
     "num": "47"
   },
   {
@@ -1578,7 +1578,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tua2",
+    "pron": "taim3",
     "num": "52"
   },
   {
@@ -1595,7 +1595,7 @@
         "explanation": "日時計やアナログ時計など、平たい形をした時計を指す。"
       }
     ],
-    "pron": "tua2 xu1",
+    "pron": "taim3 xyu2",
     "num": "-"
   },
   {
@@ -1612,7 +1612,7 @@
         "explanation": ""
       }
     ],
-    "pron": "suom3 tua2 xu1",
+    "pron": "suo3 taim3 xyu2",
     "num": "-"
   },
   {
@@ -1629,7 +1629,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2 tua2 xu1",
+    "pron": "nogai1 taim3 xu2",
     "num": "-"
   },
   {
@@ -1646,7 +1646,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2 ha3 ail2",
+    "pron": "nogai1 hes2 ki2",
     "num": "-"
   },
   {
@@ -1663,7 +1663,7 @@
         "explanation": ""
       }
     ],
-    "pron": "taol3",
+    "pron": "we2",
     "num": "53"
   },
   {
@@ -1680,7 +1680,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xo2",
+    "pron": "kon",
     "num": "54"
   },
   {
@@ -1701,7 +1701,7 @@
         "explanation": ""
       }
     ],
-    "pron": "huo1",
+    "pron": "kuo3",
     "num": "55"
   },
   {
@@ -1718,7 +1718,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tem3",
+    "pron": kem3",
     "num": "56"
   },
   {
@@ -1735,7 +1735,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tem3 jua1",
+    "pron": "kem3 ai2",
     "num": "-"
   },
   {
@@ -1752,7 +1752,7 @@
         "explanation": "跳。動詞で用いるときは、飛行ではなくジャンプ・跳躍することを指す。"
       }
     ],
-    "pron": "dail2",
+    "pron": "peng3",
     "num": "57"
   },
   {
@@ -1773,7 +1773,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yai1",
+    "pron": "kon2",
     "num": "58"
   },
   {
@@ -1790,7 +1790,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cen1",
+    "pron": "ces3",
     "num": "59"
   },
   {
@@ -1807,7 +1807,7 @@
         "explanation": ""
       }
     ],
-    "pron": "heng3",
+    "pron": "leam2",
     "num": "60"
   },
   {
@@ -1824,7 +1824,7 @@
         "explanation": "丘。山ほど大きくない少し盛り上がった地形を指す。"
       }
     ],
-    "pron": "das1",
+    "pron": "dail2",
     "num": "61"
   },
   {
@@ -1845,7 +1845,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nes2",
+    "pron": "nets1",
     "num": "62"
   },
   {
@@ -1862,7 +1862,7 @@
         "explanation": ""
       }
     ],
-    "pron": "we2 nes2",
+    "pron": "e2 nets1",
     "num": "-"
   },
   {
@@ -1883,7 +1883,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sao2",
+    "pron": "li1",
     "num": "63"
   },
   {
@@ -1904,7 +1904,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 sao2",
+    "pron": "aing2 li1",
     "num": "-"
   },
   {
@@ -1921,7 +1921,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xu2",
+    "pron": "huo2",
     "num": "64"
   },
   {
@@ -1942,7 +1942,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lus3",
+    "pron": "goel1",
     "num": "65"
   },
   {
@@ -1959,7 +1959,7 @@
         "explanation": ""
       }
     ],
-    "pron": "be1",
+    "pron": ao2",
     "num": "66"
   },
   {
@@ -1976,7 +1976,7 @@
         "explanation": ""
       }
     ],
-    "pron": "be1 mua1",
+    "pron": "ao2 moh3",
     "num": "-"
   },
   {
@@ -1993,11 +1993,11 @@
         "explanation": ""
       }
     ],
-    "pron": "ha1 be1",
+    "pron": "ho1 ao2",
     "num": "-"
   },
   {
-    "word": "衆家",
+    "word": "団家",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2010,7 +2010,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 be1",
+    "pron": "ayaol3 ao2",
     "num": "-"
   },
   {
@@ -2027,7 +2027,7 @@
         "explanation": ""
       }
     ],
-    "pron": "him2 be1",
+    "pron": "gyaol1 ao2",
     "num": "-"
   },
   {
@@ -2044,7 +2044,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xal3 be1",
+    "pron": "jien2 ao2",
     "num": "-"
   },
   {
@@ -2061,7 +2061,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xal3 kaing1",
+    "pron": "jien2 kula1",
     "num": "-"
   },
   {
@@ -2078,7 +2078,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vaim1",
+    "pron": "vol2",
     "num": "67"
   },
   {
@@ -2099,7 +2099,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mam3",
+    "pron": "kus1",
     "num": "68"
   },
   {
@@ -2116,7 +2116,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mam3 qo1",
+    "pron": "kus1 gem2",
     "num": "-"
   },
   {
@@ -2137,7 +2137,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kaing2",
+    "pron": "wa1",
     "num": "69"
   },
   {
@@ -2154,7 +2154,7 @@
         "explanation": ""
       }
     ],
-    "pron": "jai2",
+    "pron": "puri1 biam2",
     "num": "70"
   },
   {
@@ -2171,7 +2171,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lai1",
+    "pron": "biam2",
     "num": "71"
   },
   {
@@ -2188,11 +2188,11 @@
         "explanation": ""
       }
     ],
-    "pron": "luong3",
+    "pron": "je2",
     "num": "72"
   },
   {
-    "word": "憤丸",
+    "word": "憤玉",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2205,11 +2205,11 @@
         "explanation": ""
       }
     ],
-    "pron": "gua1 luong3",
+    "pron": "baon mam3",
     "num": "-"
   },
   {
-    "word": "粒央",
+    "word": "元粒",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2222,11 +2222,11 @@
         "explanation": ""
       }
     ],
-    "pron": "duol2 na2",
+    "pron": " la3 duol1",
     "num": "-"
   },
   {
-    "word": "小粒憤丸",
+    "word": "元粒憤玉",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2239,11 +2239,11 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1 duol2 gua1 luong3",
+    "pron": "la3 duol1 baon mam3",
     "num": "-"
   },
   {
-    "word": "水材憤丸",
+    "word": "水材憤玉",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2256,7 +2256,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 jaim3 gua1 luong3",
+    "pron": "sat3 zom1 baon mam3",
     "num": "-"
   },
   {
