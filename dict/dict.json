@@ -2836,11 +2836,11 @@
         "explanation": ""
       }
     ],
-    "pron": "mong2",
+    "pron": "puon2",
     "num": "89"
   },
   {
-    "word": "刈時",
+    "word": "刈則時",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2853,7 +2853,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mong2 tua2",
+    "pron": "puon2 taim3",
     "num": "-"
   },
   {
@@ -2870,7 +2870,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mong2 ki3",
+    "pron": "puon2 cyng1",
     "num": "-"
   },
   {
@@ -2887,7 +2887,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ki1 mong2",
+    "pron": "ki3 puon2",
     "num": "-"
   },
   {
@@ -2904,7 +2904,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qua3",
+    "pron": "hil1",
     "num": "90"
   },
   {
@@ -2921,7 +2921,7 @@
         "explanation": ""
       }
     ],
-    "pron": "dao1 qua3",
+    "pron": "hion1 hil1",
     "num": "-"
   },
   {
@@ -2929,7 +2929,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰国の首都以外の都市。"
+        "explanation": "は国の首都以外の都市。"
       }
     ],
     "append": [
@@ -2938,7 +2938,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cel2",
+    "pron": "soul2",
     "num": "91"
   },
   {
@@ -2946,7 +2946,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰国の首都。現代では天京を指す。"
+        "explanation": "首都。"
       }
     ],
     "append": [
@@ -2955,7 +2955,7 @@
         "explanation": ""
       }
     ],
-    "pron": "za3",
+    "pron": "tai1",
     "num": "92"
   },
   {
@@ -2976,7 +2976,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2",
+    "pron": "ju2",
     "num": "93"
   },
   {
@@ -2993,7 +2993,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2 kus3",
+    "pron": "ju2 qa2",
     "num": "-"
   },
   {
@@ -3010,7 +3010,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2 ju1",
+    "pron": "hai2 dyn1",
     "num": "-"
   },
   {
@@ -3027,7 +3027,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2 lai1",
+    "pron": "hai2 biam2",
     "num": "-"
   },
   {
@@ -3048,7 +3048,7 @@
         "explanation": ""
       }
     ],
-    "pron": "huas3",
+    "pron": "ou1",
     "num": "94"
   },
   {
@@ -3065,15 +3065,15 @@
         "explanation": ""
       }
     ],
-    "pron": "qo3",
+    "pron": "ha1",
     "num": "95"
   },
   {
-    "word": "栄字",
+    "word": "日字",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰字。雰語で使う表意文字。"
+        "explanation": "ホタル字。"
       }
     ],
     "append": [
@@ -3082,7 +3082,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 qo3",
+    "pron": "hotal3 ha1",
     "num": "-"
   },
   {
@@ -3099,7 +3099,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qo3 xu1",
+    "pron": "ha1 xyu2",
     "num": "-"
   },
   {
@@ -3116,7 +3116,7 @@
         "explanation": ""
       }
     ],
-    "pron": "i3",
+    "pron": "tuo2",
     "num": "96"
   },
   {
@@ -3133,7 +3133,7 @@
         "explanation": ""
       }
     ],
-    "pron": "peng1",
+    "pron": "dou1",
     "num": "97"
   },
   {
@@ -3150,7 +3150,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hil3 peng1",
+    "pron": "mulya2 dou1",
     "num": "-"
   },
   {
@@ -3175,11 +3175,11 @@
         "explanation": ""
       }
     ],
-    "pron": "na1",
+    "pron": "nuol1 ",
     "num": "98"
   },
   {
-    "word": "刃粒央",
+    "word": "刃粒分",
     "mean": [
       {
         "partOfSpeech": "動",
@@ -3192,7 +3192,7 @@
         "explanation": ""
       }
     ],
-    "pron": "na1 duol2 na2",
+    "pron": "nuol1 duol1 muon2",
     "num": "-"
   },
   {
@@ -3209,7 +3209,7 @@
         "explanation": ""
       }
     ],
-    "pron": "wi3 na1",
+    "pron": "pai1 nuol1",
     "num": "-"
   },
   {
@@ -3226,7 +3226,7 @@
         "explanation": ""
       }
     ],
-    "pron": "bom1",
+    "pron": "jo3",
     "num": "99"
   },
   {
