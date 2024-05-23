@@ -2154,7 +2154,7 @@
         "explanation": ""
       }
     ],
-    "pron": "puri1 biam2",
+    "pron": "puri1",
     "num": "70"
   },
   {
@@ -2268,7 +2268,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "蛍教の五元素の一つ。"
       },
       {
         "partOfSpeech": "名",
@@ -2281,11 +2281,11 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1",
+    "pron": "fok3",
     "num": "73"
   },
   {
-    "word": "気思",
+    "word": "心思",
     "mean": [
       {
         "partOfSpeech": "動",
@@ -2298,7 +2298,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 sao2",
+    "pron": "nets1 li1",
     "num": "-"
   },
   {
@@ -2315,11 +2315,11 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 cua3",
+    "pron": "li1 tsua3",
     "num": "-"
   },
   {
-    "word": "気丸",
+    "word": "気玉",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2332,7 +2332,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 luong3",
+    "pron": "tsua1 pum2",
     "num": "-"
   },
   {
@@ -2349,7 +2349,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fua1",
+    "pron": "cum3",
     "num": "74"
   },
   {
@@ -2366,7 +2366,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fua1 xao3",
+    "pron": "cum3 taol2",
     "num": "-"
   },
   {
@@ -2387,7 +2387,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fa2",
+    "pron": "pes1",
     "num": "75"
   },
   {
@@ -2404,7 +2404,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3 fa2",
+    "pron": "ben2 pes1",
     "num": "-"
   },
   {
@@ -2421,11 +2421,11 @@
         "explanation": ""
       }
     ],
-    "pron": "luong3 fa2",
+    "pron": "je2 pes1",
     "num": "-"
   },
   {
-    "word": "筆杯",
+    "word": "筆函",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2438,7 +2438,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fa2 paon1",
+    "pron": "pes1 aon3",
     "num": "-"
   },
   {
@@ -2455,11 +2455,11 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3",
+    "pron": "ceng3",
     "num": "76"
   },
   {
-    "word": "書門",
+    "word": "書筆",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2472,7 +2472,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 fuon3",
+    "pron": "ceng3 pes1",
     "num": "-"
   },
   {
@@ -2493,7 +2493,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cuang2",
+    "pron": "waing2",
     "num": "77"
   },
   {
@@ -2510,7 +2510,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cuang2 xu1",
+    "pron": "waing2 xu2",
     "num": "-"
   },
   {
@@ -2527,7 +2527,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nes2 cuang2",
+    "pron": "nets1 waing1",
     "num": "-"
   },
   {
@@ -2544,7 +2544,7 @@
         "explanation": ""
       }
     ],
-    "pron": "zi1",
+    "pron": "nuos3",
     "num": "78"
   },
   {
@@ -2561,7 +2561,7 @@
         "explanation": ""
       }
     ],
-    "pron": "duo2",
+    "pron": "gung2",
     "num": "79"
   },
   {
@@ -2578,7 +2578,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lun3",
+    "pron": "mii3",
     "num": "80"
   },
   {
@@ -2595,7 +2595,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kem1",
+    "pron": "lik1",
     "num": "81"
   },
   {
@@ -2612,7 +2612,7 @@
         "explanation": "走。動詞で用いるときは走る（下半身を使い早く移動する）ことを指す。"
       }
     ],
-    "pron": "qai1",
+    "pron": "po1",
     "num": "82"
   },
   {
@@ -2629,7 +2629,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qai1 ke1",
+    "pron": "po1 ge2",
     "num": "-"
   },
   {
@@ -2650,7 +2650,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1",
+    "pron": "tan3",
     "num": "83"
   },
   {
@@ -2671,7 +2671,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tuo2",
+    "pron": "to1",
     "num": "84"
   },
   {
@@ -2688,7 +2688,7 @@
         "explanation": ""
       }
     ],
-    "pron": "zom3",
+    "pron": "wing1",
     "num": "85"
   },
   {
@@ -2709,7 +2709,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3",
+    "pron": "ika1",
     "num": "86"
   },
   {
@@ -2726,7 +2726,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3 ye1",
+    "pron": "ika1 ki2",
     "num": "-"
   },
   {
@@ -2743,7 +2743,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3 ye1",
+    "pron": "ya1 ki2",
     "num": "-"
   },
   {
@@ -2760,7 +2760,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3 ya3 ye1",
+    "pron": "ika1 ya1 ki1",
     "num": "-"
   },
   {
@@ -2777,11 +2777,11 @@
         "explanation": ""
       }
     ],
-    "pron": "mum2",
+    "pron": "ges2",
     "num": "87"
   },
   {
-    "word": "頭椅",
+    "word": "頭巾",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -2794,7 +2794,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mum2 luo3",
+    "pron": "ges2 ki2",
     "num": "-"
   },
   {
@@ -2815,7 +2815,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vu3",
+    "pron": "kuo1",
     "num": "88"
   },
   {
