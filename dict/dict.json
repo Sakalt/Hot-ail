@@ -4,7 +4,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "人。人間。永球人。"
+        "explanation": "人。人間。蛍球人。"
       }
     ],
     "append": [
@@ -13,7 +13,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ha1",
+    "pron": "ho1",
     "num": "1"
   },
   {
@@ -30,7 +30,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nai2",
+    "pron": "ta2",
     "num": "2"
   },
   {
@@ -47,11 +47,11 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3",
+    "pron": "pa3",
     "num": "3"
   },
   {
-    "word": "開手",
+    "word": "先手",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -64,7 +64,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1 taos3",
+    "pron": "we2 pa3",
     "num": "-"
   },
   {
@@ -81,7 +81,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xe3",
+    "pron": "ka2",
     "num": "4"
   },
   {
@@ -93,7 +93,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "蛍教の五元素の一つ。"
       }
     ],
     "append": [
@@ -102,7 +102,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2",
+    "pron": "kiaol3",
     "num": "5"
   },
   {
@@ -119,7 +119,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 me2",
+    "pron": "kiaol3 kaing1",
     "num": "-"
   },
   {
@@ -131,7 +131,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "蛍教の五元素の一つ。"
       },
       {
         "partOfSpeech": "名",
@@ -144,7 +144,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3",
+    "pron": "sat3",
     "num": "6"
   },
   {
@@ -161,7 +161,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 luong3",
+    "pron": "sat3 je2",
     "num": "-"
   },
   {
@@ -178,7 +178,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ge2",
+    "pron": "ko3",
     "num": "7"
   },
   {
@@ -203,7 +203,7 @@
         "explanation": "餐。こちらは調理された料理を指す。それに対して名詞としての「食」は、調理されていない生野菜なども含む。"
       }
     ],
-    "pron": "bua1",
+    "pron": "biaol2",
     "num": "8"
   },
   {
@@ -220,7 +220,7 @@
         "explanation": ""
       }
     ],
-    "pron": "baon2",
+    "pron": "ve1",
     "num": "9"
   },
   {
@@ -237,7 +237,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1 baon2",
+    "pron": "net2 ve1",
     "num": "-"
   },
   {
@@ -254,7 +254,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kus3",
+    "pron": "qa2",
     "num": "10"
   },
   {
@@ -279,7 +279,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3",
+    "pron": "lo3",
     "num": "11"
   },
   {
@@ -296,7 +296,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1",
+    "pron": "kao2",
     "num": "12"
   },
   {
@@ -321,7 +321,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2",
+    "pron": "aing2",
     "num": "13"
   },
   {
@@ -338,7 +338,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nun2",
+    "pron": "wing1",
     "num": "14"
   },
   {
@@ -350,7 +350,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "蛍教の五元素の一つ。"
       }
     ],
     "append": [
@@ -359,7 +359,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3",
+    "pron": "qes3",
     "num": "15"
   },
   {
@@ -371,7 +371,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "日教の五元素の一つ。"
       },
       {
         "partOfSpeech": "名",
@@ -384,7 +384,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2",
+    "pron": "gia2",
     "num": "16"
   },
   {
@@ -401,7 +401,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cai1",
+    "pron": "kus3",
     "num": "17"
   },
   {
@@ -422,7 +422,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1",
+    "pron": "net1",
     "num": "18"
   },
   {
@@ -430,7 +430,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "灼陽。おひさま。"
+        "explanation": "蛍陽。おひさま。"
       },
       {
         "partOfSpeech": "名",
@@ -443,7 +443,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1",
+    "pron": "hotal3",
     "num": "19"
   },
   {
@@ -455,7 +455,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の神素。"
+        "explanation": "蛍教の蛍素。"
       },
       {
         "partOfSpeech": "名",
@@ -468,7 +468,7 @@
         "explanation": "星としては惑星や衛星、恒星などをまとめて指す。"
       }
     ],
-    "pron": "vas1",
+    "pron": "ing3",
     "num": "20"
   },
   {
@@ -476,7 +476,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "灼陽。"
+        "explanation": "蛍陽。"
       }
     ],
     "append": [
@@ -485,7 +485,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1 vas1",
+    "pron": "hotal3 ing3",
     "num": "-"
   },
   {
@@ -493,7 +493,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球月。"
+        "explanation": "蛍球月。"
       }
     ],
     "append": [
@@ -502,7 +502,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2 vas1",
+    "pron": "pi1 ing3",
     "num": "-"
   },
   {
@@ -510,7 +510,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "霞星。"
+        "explanation": "霧神星。"
       }
     ],
     "append": [
@@ -519,7 +519,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 vas1",
+    "pron": "fok3 ing2",
     "num": "-"
   },
   {
@@ -527,7 +527,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "焔星。"
+        "explanation": "燃星。"
       }
     ],
     "append": [
@@ -536,15 +536,15 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 vas1",
+    "pron": "gia2 ing3",
     "num": "-"
   },
   {
-    "word": "大丸",
+    "word": "日丸",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球。"
+        "explanation": "蛍球。"
       }
     ],
     "append": [
@@ -553,7 +553,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 luong3",
+    "pron": "hotal3 je2",
     "num": "-"
   },
   {
@@ -561,7 +561,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "瀧星。"
+        "explanation": "海星。"
       }
     ],
     "append": [
@@ -570,15 +570,15 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 vas1",
+    "pron": "min2 ing3",
     "num": "-"
   },
   {
-    "word": "土天",
+    "word": "貝天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "穀星。"
+        "explanation": "貝星。"
       }
     ],
     "append": [
@@ -587,7 +587,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3 vas1",
+    "pron": "kuol3 ing3",
     "num": "-"
   },
   {
@@ -604,7 +604,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 vas1",
+    "pron": "kiaol3 ing3",
     "num": "-"
   },
   {
@@ -612,7 +612,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "山神星。"
+        "explanation": "森蛍星。"
       }
     ],
     "append": [
@@ -621,7 +621,7 @@
         "explanation": ""
       }
     ],
-    "pron": "das1 vas1",
+    "pron": "dail2 ing3",
     "num": "-"
   },
   {
@@ -629,7 +629,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雲神星。"
+        "explanation": "霧蛍星。"
       }
     ],
     "append": [
@@ -638,7 +638,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 vas1",
+    "pron": "bi2 ing3",
     "num": "-"
   },
   {
@@ -646,7 +646,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "氷神星。"
+        "explanation": "氷蛍星。"
       }
     ],
     "append": [
@@ -655,11 +655,11 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 vas1",
+    "pron": "huil1 ing3",
     "num": "-"
   },
   {
-    "word": "天思",
+    "word": "気思",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -672,7 +672,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 sao2",
+    "pron": "fok3 li1",
     "num": "-"
   },
   {
@@ -689,7 +689,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ao1 vas1",
+    "pron": "mok1 ing3",
     "num": "-"
   },
   {
@@ -706,7 +706,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 cua3",
+    "pron": "ing1 tsua3",
     "num": "-"
   },
   {
@@ -727,7 +727,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qai3",
+    "pron": "kaik2",
     "num": "21"
   },
   {
@@ -744,7 +744,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fes2",
+    "pron": "qo3",
     "num": "22"
   },
   {
@@ -761,7 +761,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fes2 qai2",
+    "pron": "qo3 qats2",
     "num": "-"
   },
   {
@@ -782,7 +782,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fua3",
+    "pron": "itu3",
     "num": "23"
   },
   {
@@ -799,7 +799,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 fua3",
+    "pron": "ge2 itu3",
     "num": "-"
   },
   {
@@ -816,7 +816,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xel3",
+    "pron": "xiam3",
     "num": "24"
   },
   {
@@ -824,7 +824,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "永球月。おつきさま。"
+        "explanation": "蛍球月。おつきさま。"
       }
     ],
     "append": [
@@ -833,7 +833,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2",
+    "pron": "pi1",
     "num": "25"
   },
   {
@@ -850,7 +850,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vi1",
+    "pron": "ig1",
     "num": "26"
   },
   {
@@ -867,7 +867,7 @@
         "explanation": ""
       }
     ],
-    "pron": "buan3",
+    "pron": "naj3",
     "num": "27"
   },
   {
@@ -884,7 +884,7 @@
         "explanation": ""
       }
     ],
-    "pron": "gaol3",
+    "pron": "mail3",
     "num": "28"
   },
   {
@@ -901,7 +901,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fai1",
+    "pron": "fai3",
     "num": "29"
   },
   {
@@ -918,7 +918,7 @@
         "explanation": ""
       }
     ],
-    "pron": "luong1",
+    "pron": "fuiaol4",
     "num": "30"
   },
   {
@@ -939,11 +939,11 @@
         "explanation": "声。こちらは一人で呟くことや意味のない声を出すことを指すのに対し、言は二人以上で意味のある会話をすることを指す。"
       }
     ],
-    "pron": "bun2",
+    "pron": "din3",
     "num": "31"
   },
   {
-    "word": "伴言倫",
+    "word": "穏倫",
     "mean": [
       {
         "partOfSpeech": "感",
@@ -956,7 +956,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nuo2 bun2 tuo2",
+    "pron": "dya3 kya2",
     "num": "-"
   },
   {
@@ -977,7 +977,7 @@
         "explanation": ""
       }
     ],
-    "pron": "zen3",
+    "pron": "zia2",
     "num": "32"
   },
   {
@@ -994,7 +994,7 @@
         "explanation": ""
       }
     ],
-    "pron": "guan1",
+    "pron": "giaol",
     "num": "33"
   },
   {
@@ -1011,15 +1011,15 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 guan1",
+    "pron": "lo3 giaol",
     "num": "-"
   },
   {
-    "word": "皇",
+    "word": "日皇",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "旭天。雰国の王。"
+        "explanation": "蛍皇。ホタル王国の王。"
       }
     ],
     "append": [
@@ -1028,7 +1028,7 @@
         "explanation": ""
       }
     ],
-    "pron": "juan1",
+    "pron": "hotal3 yuan2",
     "num": "34"
   },
   {
@@ -1045,7 +1045,7 @@
         "explanation": ""
       }
     ],
-    "pron": "luam2",
+    "pron": "mam3",
     "num": "35"
   },
   {
@@ -1070,7 +1070,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ling3",
+    "pron": "va1",
     "num": "36"
   },
   {
@@ -1091,7 +1091,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3",
+    "pron": "ya1",
     "num": "37"
   },
   {
@@ -1108,7 +1108,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3 ha1",
+    "pron": "ya1 ho1",
     "num": "-"
   },
   {
@@ -1125,7 +1125,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuo2",
+    "pron": "guan2",
     "num": "38"
   },
   {
@@ -1142,7 +1142,7 @@
         "explanation": ""
       }
     ],
-    "pron": "van3",
+    "pron": "sia3",
     "num": "39"
   },
   {
@@ -1167,7 +1167,7 @@
         "explanation": ""
       }
     ],
-    "pron": "dua1",
+    "pron": "dyua2",
     "num": "40"
   },
   {
@@ -1175,7 +1175,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰。雰民族や雰天国を指す。"
+        "explanation": "アオリ国。アオリ民族やアオリ国を指す。"
       },
       {
         "partOfSpeech": "動",
@@ -1188,7 +1188,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1",
+    "pron": "aoli1",
     "num": "41"
   },
   {
@@ -1196,7 +1196,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰国。雰天国。"
+        "explanation": "アオリ国。アオリ国。"
       }
     ],
     "append": [
@@ -1205,7 +1205,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 nun2",
+    "pron": "aoli1 wing1",
     "num": "-"
   },
   {
@@ -1213,7 +1213,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰国の民。雰人。雰国人。"
+        "explanation": "アオリ国の民。アオリ人。アオリ国人。"
       }
     ],
     "append": [
@@ -1222,7 +1222,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 zom3",
+    "pron": "aoli1 goim3",
     "num": "-"
   },
   {
@@ -1239,7 +1239,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1",
+    "pron": "kui1",
     "num": "42"
   },
   {
@@ -1256,7 +1256,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1 ya3",
+    "pron": "kui1 ya1",
     "num": "-"
   },
   {
@@ -1277,7 +1277,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1",
+    "pron": "ja2",
     "num": "43"
   },
   {
@@ -1294,7 +1294,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 xo3",
+    "pron": "ja2 la3",
     "num": "-"
   },
   {
@@ -1315,7 +1315,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 yai1",
+    "pron": "ja2 kon2",
     "num": "-"
   },
   {
@@ -1336,7 +1336,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1",
+    "pron": "ge2",
     "num": "44"
   },
   {
@@ -1353,7 +1353,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1",
+    "pron": "kuole2",
     "num": "45"
   },
   {
@@ -1370,7 +1370,7 @@
         "explanation": "今。こちらは現在の時間をピンポイントに指すが、之時は時間軸をある特定の基準で区切ったときの「現在」の部分を指す。"
       }
     ],
-    "pron": "kua1 tua2",
+    "pron": "kuole2 taim3",
     "num": "-"
   },
   {
@@ -1387,7 +1387,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 kuang1",
+    "pron": "kuole1 hotal3",
     "num": "-"
   },
   {
@@ -1404,7 +1404,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 lai1",
+    "pron": "kuole1 biam2",
     "num": "-"
   },
   {
@@ -1421,7 +1421,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 fuon2",
+    "pron": "kuole1 tsyal3",
     "num": "-"
   },
   {
@@ -1438,7 +1438,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 vo2",
+    "pron": "kua1 pi1",
     "num": "-"
   },
   {
@@ -1455,7 +1455,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 vais2",
+    "pron": "kuole1 pai2",
     "num": "-"
   },
   {
@@ -1476,7 +1476,7 @@
         "explanation": ""
       }
     ],
-    "pron": "suo2",
+    "pron": "mej3",
     "num": "46"
   },
   {
@@ -1493,7 +1493,7 @@
         "explanation": "目的語に存在する場所を取ることができる。"
       }
     ],
-    "pron": "baim3",
+    "pron": "yam3",
     "num": "47"
   },
   {
@@ -1510,7 +1510,7 @@
         "explanation": ""
       }
     ],
-    "pron": "peng3",
+    "pron": "teng3",
     "num": "48"
   },
   {
@@ -1527,7 +1527,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yuo2",
+    "pron": "guo2",
     "num": "49"
   },
   {
