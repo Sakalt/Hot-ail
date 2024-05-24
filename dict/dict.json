@@ -3247,7 +3247,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2",
+    "pron": "sal2",
     "num": "100"
   },
   {
@@ -3264,7 +3264,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 cuang2",
+    "pron": "sal2 waing1",
     "num": "-"
   },
   {
@@ -3281,11 +3281,11 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ye2",
+    "pron": "sal2 pal3",
     "num": "-"
   },
   {
-    "word": "紙木",
+    "word": "紙羅",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -3298,7 +3298,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2 lung2",
+    "pron": "pal3 da2",
     "num": "-"
   },
   {
@@ -3315,7 +3315,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ha3",
+    "pron": "sal2 hes2",
     "num": "-"
   },
   {
@@ -3332,7 +3332,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 xao3",
+    "pron": "sal2 taol2",
     "num": "-"
   },
   {
@@ -3349,7 +3349,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ha3 ail2",
+    "pron": "hes2 ki2",
     "num": "-"
   },
   {
@@ -3366,7 +3366,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sus3 ha3",
+    "pron": "myan1 hes2",
     "num": "-"
   },
   {
@@ -3383,11 +3383,11 @@
         "explanation": ""
       }
     ],
-    "pron": "las3 ha3",
+    "pron": "kota2 hes2",
     "num": "-"
   },
   {
-    "word": "行言機",
+    "word": "手言機",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -3400,7 +3400,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 bun2 ail2",
+    "pron": "pa3 bun2 ki2",
     "num": "-"
   },
   {
@@ -3417,7 +3417,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 bun2",
+    "pron": "ja2 bun2",
     "num": "-"
   },
   {
@@ -3434,7 +3434,7 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3 ha3",
+    "pron": "pa3 hes2",
     "num": "-"
   },
   {
@@ -3451,7 +3451,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 bun2",
+    "pron": "sal2 bun2",
     "num": "-"
   },
   {
@@ -3468,7 +3468,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 bun2 cuang2",
+    "pron": "sal2 bun2 waing1",
     "num": "-"
   },
   {
@@ -3485,7 +3485,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ail2",
+    "pron": "sal2 ki2",
     "num": "-"
   },
   {
@@ -3502,7 +3502,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 mam3",
+    "pron": "sal2 kus2",
     "num": "-"
   },
   {
@@ -3519,7 +3519,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 li1",
+    "pron": "sal2 main1",
     "num": "-"
   },
   {
@@ -3536,7 +3536,7 @@
         "explanation": ""
       }
     ],
-    "pron": "li1 main2",
+    "pron": "main1 sal2",
     "num": "-"
   },
   {
@@ -3553,11 +3553,11 @@
         "explanation": ""
       }
     ],
-    "pron": "suol3 li1 main2",
+    "pron": "gal1 main1 sal2",
     "num": "-"
   },
   {
-    "word": "雷楽",
+    "word": "雷遊",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -3570,7 +3570,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 yao2",
+    "pron": "sal2 hion1",
     "num": "-"
   },
   {
@@ -3587,7 +3587,7 @@
         "explanation": ""
       }
     ],
-    "pron": "zai3",
+    "pron": "jum2",
     "num": "101"
   },
   {
@@ -3604,7 +3604,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ha3",
+    "pron": "hes2",
     "num": "102"
   },
   {
@@ -3621,7 +3621,7 @@
         "explanation": ""
       }
     ],
-    "pron": "dais2",
+    "pron": "das2",
     "num": "103"
   },
   {
@@ -3642,7 +3642,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1",
+    "pron": "pon1",
     "num": "104"
   },
   {
@@ -3659,7 +3659,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 huo1",
+    "pron": "?? kuo3",
     "num": "-"
   },
   {
@@ -3676,7 +3676,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 pu2",
+    "pron": "pon1 ??",
     "num": "-"
   },
   {
@@ -3693,7 +3693,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2",
+    "pron": "pon1",
     "num": "105"
   },
   {
@@ -3714,7 +3714,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3",
+    "pron": "nyaion2",
     "num": "106"
   },
   {
@@ -3731,7 +3731,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 bun2",
+    "pron": "nyaion2 bun2",
     "num": "-"
   },
   {
@@ -3748,7 +3748,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 mu1",
+    "pron": "nyaion2 gu1",
     "num": "-"
   },
   {
@@ -3765,7 +3765,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 qo1",
+    "pron": "nyaion1 kok1",
     "num": "-"
   },
   {
@@ -3782,7 +3782,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 fuon3 mu1",
+    "pron": "sal2 nyaion1 kok1",
     "num": "-"
   },
   {
@@ -3799,7 +3799,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ba1 fuon3",
+    "pron": "nun nyaion1",
     "num": "-"
   },
   {
@@ -3820,7 +3820,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1",
+    "pron": "te2",
     "num": "107"
   },
   {
@@ -3841,7 +3841,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ba1",
+    "pron": "nun",
     "num": "108"
   },
   {
@@ -3858,7 +3858,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2",
+    "pron": "pal3",
     "num": "109"
   },
   {
@@ -3875,7 +3875,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 sus3",
+    "pron": "ceng3 myan1",
     "num": "-"
   },
   {
@@ -3892,7 +3892,7 @@
         "explanation": ""
       }
     ],
-    "pron": "buo3",
+    "pron": "mi1",
     "num": "110"
   },
   {
@@ -3909,7 +3909,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cai1 buo3",
+    "pron": "kus3 mi1",
     "num": "-"
   },
   {
@@ -3926,7 +3926,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yol1 buo3",
+    "pron": "jou1 mi1",
     "num": "-"
   },
   {
@@ -3943,7 +3943,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ai2 buo3",
+    "pron": "bu1 mi1",
     "num": "-"
   },
   {
@@ -3960,7 +3960,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3 buo3",
+    "pron": "ben2 mi1",
     "num": "-"
   },
   {
@@ -3977,7 +3977,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ki3",
+    "pron": "??",
     "num": "111"
   },
   {
@@ -3994,7 +3994,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mua1",
+    "pron": "moh2",
     "num": "112"
   },
   {
@@ -4011,7 +4011,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mua1 di2",
+    "pron": "moh2 lua",
     "num": "-"
   },
   {
@@ -4028,7 +4028,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 mua1",
+    "pron": "sal2 moh2",
     "num": "-"
   },
   {
@@ -4045,7 +4045,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 mua1",
+    "pron": "aing2 moh1",
     "num": "-"
   },
   {
@@ -4087,7 +4087,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pe2",
+    "pron": "fuan2",
     "num": "114"
   },
   {
@@ -4104,7 +4104,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pe2 ha1",
+    "pron": "fuan2 ho1",
     "num": "-"
   },
   {
@@ -4121,7 +4121,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pe2 nai2",
+    "pron": "fuan2 ta2",
     "num": "-"
   },
   {
@@ -4142,7 +4142,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cuo2",
+    "pron": "qil1",
     "num": "115"
   },
   {
@@ -4159,7 +4159,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cuo2 za2",
+    "pron": "qil1 ga2",
     "num": "-"
   },
   {
@@ -4176,7 +4176,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1 cuo2",
+    "pron": "kao2 qil1",
     "num": "-"
   },
   {
@@ -4193,7 +4193,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cun1 cuo2",
+    "pron": "qun1"qil1,
     "num": "-"
   },
   {
@@ -4210,7 +4210,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pao2",
+    "pron": "bao1",
     "num": "116"
   },
   {
@@ -4227,7 +4227,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hu3",
+    "pron": "kou3",
     "num": "117"
   },
   {
@@ -4244,7 +4244,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hu3 ail1",
+    "pron": "kou3 cun2",
     "num": "-"
   },
   {
@@ -4282,7 +4282,7 @@
         "explanation": ""
       }
     ],
-    "pron": "a2",
+    "pron": "dais1",
     "num": "119"
   },
   {
@@ -4299,7 +4299,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lis3",
+    "pron": "bais1",
     "num": "120"
   },
   {
@@ -4316,7 +4316,7 @@
         "explanation": ""
       }
     ],
-    "pron": "e3",
+    "pron": "ye2",
     "num": "121"
   },
   {
