@@ -23,7 +23,7 @@ button {
 }
 
 #numberofwords {
-    font-family: "Phun";
+    font-family: "PhunWrite";
 }
 
 #numberofwords, #numberofwordsjp {
@@ -154,7 +154,7 @@ button {
 }
 
 @font-face {
-    font-family: "Phun";
+    font-family: "PhunMrite";
     src: url(./fonts/hotail.woff) format("woff");
 }
 
